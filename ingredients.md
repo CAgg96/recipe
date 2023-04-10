@@ -25,3 +25,6 @@ Salt and Pepper
 ½ cup frozen peas
 ½ cup frozen diced carrots
 ½ cup frozen diced green beans
+
+
+## Source: https://www.mycolombianrecipes.com/chicken-and-rice-arroz-con-pollo/ 
