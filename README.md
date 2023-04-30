@@ -22,3 +22,6 @@ last line changed locally
 6. Chicken breast
 
 Do not forget to let the ***chicken broth cook for 25 mins***
+
+
+![Arroz con pollo](/recipe/recipe.jpg)
