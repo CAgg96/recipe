@@ -20,3 +20,5 @@ last line changed locally
 4. Onions
 5. Green Peppers
 6. Chicken breast
+
+Do not forget to let the ***chicken broth cook for 25 mins***
