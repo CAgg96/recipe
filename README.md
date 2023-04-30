@@ -9,3 +9,19 @@ Outline of steps for making a colombian traditional dish which essentially trans
 
 last line changed locally
 ### This is a REMOTE change :O
+
+
+# Heading level 1 
+### Heading level 3
+
+1. Rice
+2. Carrots
+3. Green Beens
+4. Onions
+5. Green Peppers
+6. Chicken breast
+
+Do not forget to let the ***chicken broth cook for 25 mins***
+
+
+![Arroz con pollo](/recipe/recipe.jpg)
